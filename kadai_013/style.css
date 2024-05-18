@@ -80,7 +80,7 @@ PC用のスタイル
 
   #menu-sp {
     float : right;
-    padding : right;
+    padding : 0;
   }
 
   #nav-sp {
@@ -101,7 +101,7 @@ PC用のスタイル
   }
 
   #logo-sp {
-    margin : 80 0 30 20;
+    margin : 80px 0 30px 20px;
   }
 
   #nav-sp > a {
